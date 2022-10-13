@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luxuling
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning mern stact app
-- 💞️ I’m looking to collaborate on dicord
+- 🌱 I’m currently learning mern stack app
 - 📫 How to reach me antonisaputra049@gmail.com
 
 <!---
