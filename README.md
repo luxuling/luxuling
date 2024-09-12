@@ -13,6 +13,6 @@ A person who enjoys coding and building things, I enjoy assisting others in thei
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luxuling&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=luxuling&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=luxuling&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
