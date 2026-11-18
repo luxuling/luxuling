@@ -1,20 +1,13 @@
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/luxuling"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=luxuling&utm_content=farm" width="100%">
+<img
+  src="https://render.gitanimals.org/farms/luxuling"
+  width="100%"
+  height="300"
+/>
 </a>
 
 A person who enjoys coding and building things, I enjoy assisting others in their projects. Let's get in touch!
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C303%20hrs%2033%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2039%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
