@@ -8,7 +8,7 @@
 </a>
 
 A person who enjoys coding and building things, I enjoy assisting others in their projects. Let's get in touch!
-
+<!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
