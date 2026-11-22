@@ -9,7 +9,7 @@
 
 A person who enjoys coding and building things, I enjoy assisting others in their projects. Let's get in touch!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C309%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C309%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-199%20hrs%2059%20mins-blue?style=flat)
 
@@ -42,20 +42,20 @@ Sunday                   107 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.28 % 
-Markdown                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JSON                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-QML                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Other                    4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   40.25 % 
+Markdown                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+JSON                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+QML                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 49 mins       █████████████░░░░░░░░░░░░   50.55 % 
-Claude Code              5 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.45 % 
+Neovim                   6 hrs 6 mins        █████████████░░░░░░░░░░░░   51.77 % 
+Claude Code              5 hrs 41 mins       ████████████░░░░░░░░░░░░░   48.23 % 
 
 💻 Operating System: 
-Linux                    11 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/11/2026 23:30:56 UTC
+ Last Updated on 22/11/2026 23:42:40 UTC
 <!--END_SECTION:waka-->
