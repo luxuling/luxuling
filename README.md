@@ -9,9 +9,9 @@
 
 A person who enjoys coding and building things, I enjoy assisting others in their projects. Let's get in touch!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C310%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C311%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-203%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -42,20 +42,20 @@ Sunday                   107 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    3 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.39 % 
-Markdown                 1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-JSON                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-TypeScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Other                    5 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.82 % 
+Markdown                 1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+C                        1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Astro                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 15 mins       █████████████░░░░░░░░░░░░   51.48 % 
-Claude Code              4 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.52 % 
+Neovim                   7 hrs 25 mins       ███████████████░░░░░░░░░░   61.73 % 
+Claude Code              4 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.27 % 
 
 💻 Operating System: 
-Linux                    10 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/11/2026 02:39:43 UTC
+ Last Updated on 26/11/2026 01:53:57 UTC
 <!--END_SECTION:waka-->
