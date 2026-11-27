@@ -42,20 +42,20 @@ Sunday                   107 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    5 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.82 % 
-Markdown                 1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-C                        1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Astro                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Other                    4 hrs 52 mins       ██████████████░░░░░░░░░░░   55.52 % 
+C                        1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Astro                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 25 mins       ███████████████░░░░░░░░░░   61.73 % 
-Claude Code              4 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.27 % 
+Neovim                   6 hrs 36 mins       ███████████████████░░░░░░   75.26 % 
+Claude Code              2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
 
 💻 Operating System: 
-Linux                    12 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    8 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/11/2026 01:53:57 UTC
+ Last Updated on 27/11/2026 01:51:24 UTC
 <!--END_SECTION:waka-->
